@@ -2,13 +2,15 @@
 tags: [_Refinement]
 title: Refinement presentations
 created: '2025-03-11T11:17:29.845Z'
-modified: '2025-03-11T11:34:03.646Z'
+modified: '2025-03-11T13:31:27.582Z'
 ---
 
 # Refinement presentations
 <details>
   <summary>20250311</summary>
   
+UAT - User accentance testint
+
   + https://ccc.atlassian.net/browse/RFE-19517
   
     - This is a simple enhancement that consists of increasing the size of the search bar to align it with the window components, in this case the Available Tags component.
