@@ -3,10 +3,33 @@ attachments: [Clipboard_2025-01-31-11-25-17.png]
 tags: [_Refinement]
 title: Weekly Refinement Sessions -
 created: '2024-11-29T09:35:26.336Z'
-modified: '2025-03-07T08:48:59.979Z'
+modified: '2025-05-30T09:03:50.944Z'
 ---
 
 # Weekly Refinement Sessions -
+
+
+<details>
+  <summary>PI 26 -> Sprint 1</summary>
+
+  #### TEAM LEADS SESSION – MONDAY, Jun 2nd, 2025 - 90 min
+  - 
+
+
+
+  - RFE-19431 Ability to create a new RFE user during sign-in via CAS
+    - Uncertainty for a fields restriction RFE vs CAS (length, codification,...):
+       friendly name => {firstname}{lastname}
+    - Yaroslav have the same opinion about to include limitations, restrictions... in the ticket
+  
+  - RFE-21257 [QA] [SPIKE] Identify Integration points and use cases for CAS Basic
+    - Create a technical spike to identify all RFE connectors (like a UML or diagram)
+
+  - RFE-19457 [SPIKE] Investigate a tool to migrate users to PRM
+    - Has this task dependency to first spike RFE-19431?  
+
+    
+</details>
 
 <details>
   <summary>Tuesday/Wednesday - March 11th/12th, 2025</summary>

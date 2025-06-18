@@ -1,8 +1,8 @@
 ---
-tags: [_Preparing planning, _Refinement]
+tags: [_Refinement]
 title: Sprint Planning Agenda
 created: '2025-02-07T08:52:26.050Z'
-modified: '2025-02-07T08:56:13.069Z'
+modified: '2025-05-23T09:13:22.566Z'
 ---
 
 # Sprint Planning Agenda
